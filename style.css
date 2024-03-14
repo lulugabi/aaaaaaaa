@@ -19,7 +19,7 @@ header {
     align-items: center;
     align-content: center;
     flex-wrap: nowrap;
-    justify-content: center;
+    justify-content: right;
 }
 .intro-img{
     width: 221px;
