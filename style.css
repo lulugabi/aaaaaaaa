@@ -24,4 +24,6 @@ header {
     width: 221px;
     height: 217px;
 }
-.intro
+.intro{
+    display: flex;
+}
