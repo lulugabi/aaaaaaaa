@@ -21,5 +21,6 @@ header {
     align-content: center;
     flex-wrap: nowrap;
 }
-
-.
+.intro{
+    width: 40%;
+}
