@@ -8,6 +8,7 @@
 
 body{
     background-color: var(--black);
+    text-decoration-color: #ffffff;
 }
 img{
     width:1440px;
