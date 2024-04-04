@@ -28,3 +28,7 @@ header {
 .intro{
     display: flex;
 }
+.Uzumaki {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+}
