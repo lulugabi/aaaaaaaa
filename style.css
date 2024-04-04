@@ -30,5 +30,5 @@ header {
 }
 .Uzumaki {
     display: grid;
-    grid-template-columns: 33% 33% 33%;
+    grid-template-columns: 70% 70% 70%;
 }
