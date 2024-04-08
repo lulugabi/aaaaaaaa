@@ -30,7 +30,7 @@ header {
 }
 .Uzumaki {
     display: grid;
-    grid-template-columns: 20% 20% 20%;
+    grid-template-columns: 90% 90% 90%;
     text-align: center;
 }
 .Uzumaki {
