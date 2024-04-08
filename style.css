@@ -28,7 +28,7 @@ header {
     display: flex;
 }
 .Uzumaki {
-    display: list-item;
+    display: flex;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
 }
