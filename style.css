@@ -9,10 +9,6 @@ body{
     background-color: var(--black);
     color: var(--white);
 }
-img{
-    width:1440px;
-    height: 697px;
-}
 header {
     display: flex;
     flex-direction: column;
@@ -30,10 +26,6 @@ header {
 }
 .Uzumaki {
     display: grid;
-    grid-template-columns: 90% 90% 90%;
+    grid-template-columns: 33% 33% 33%;
     text-align: center;
-}
-.Uzumaki {
-    width: 70%;
-    height: 70%;
 }
