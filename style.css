@@ -26,12 +26,9 @@ header {
     display: flex;
 }
 .Uzumaki {
-    display: grid;
+    display: list-item;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-}
-.pessoa {
-    border: 3px orangered;
 }
 .pessoa {
     border: 3px solid orangered;
