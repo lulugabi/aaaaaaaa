@@ -8,6 +8,7 @@
 body{
     background-color: var(--black);
     color: var(--white);
+    border: #ff6600;
 }
 header {
     display: flex;
