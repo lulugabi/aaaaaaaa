@@ -34,5 +34,6 @@ header {
     border: 3px orangered;
 }
 .pessoa {
-    border: 3px solid orangered 
+    border: 3px solid orangered;
+    margin: 12px;
 }
