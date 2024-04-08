@@ -18,7 +18,7 @@ header {
     align-content: center;
     flex-wrap: nowrap;
     justify-content: right;
-    border: orangered solid 70px;
+    border: orangered solid 100px;
 }
 .intro-img{
     width: 221px;
@@ -35,4 +35,7 @@ header {
 .pessoa {
     border: 3px solid orangered;
     margin: 12px;
+}
+footer {
+    border: orangered 100px solid;
 }
