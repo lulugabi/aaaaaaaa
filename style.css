@@ -8,7 +8,7 @@
 body{
     background-color: var(--black);
     color: var(--white);
-    border: #ff6600;
+
 }
 header {
     display: flex;
@@ -29,4 +29,7 @@ header {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
+}
+.pessoa {
+    border: 3px orangered;
 }
