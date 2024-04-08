@@ -33,3 +33,6 @@ header {
 .pessoa {
     border: 3px orangered;
 }
+.pessoa {
+    border: 3px solid orangered 
+}
