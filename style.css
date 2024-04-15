@@ -39,5 +39,5 @@ header {
 footer {
     border: orangered 100px solid;
     background-color: orangered;
-    color: orangered;
+    color: rgb(0, 0, 0);
 }
