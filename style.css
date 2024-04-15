@@ -38,4 +38,6 @@ header {
 }
 footer {
     border: orangered 100px solid;
+    background-color: #000000;
+    color: orangered;
 }
