@@ -9,7 +9,6 @@
 body{
     background-color: var(--black);
     color: var(--white);
-    -moz-text-decoration-style: wavy;
 
 }
 header {
@@ -47,4 +46,9 @@ footer {
 a{
     color: #000000;
     text-decoration: none;
+}
+
+.primeira-imagem{
+    background-image: url(./bliack.jpg);
+    background-size: 100% 100%;
 }
