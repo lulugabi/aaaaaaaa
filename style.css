@@ -27,6 +27,7 @@ header {
 }
 .intro{
     display: flex;
+    font-size: 50px;
 }
 .Uzumaki {
     display: flex;
