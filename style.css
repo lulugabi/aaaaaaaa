@@ -19,6 +19,7 @@ header {
     flex-wrap: nowrap;
     justify-content: right;
     border: orangered solid 100px;
+    background-color: orangered;
 }
 .intro-img{
     width: 221px;
