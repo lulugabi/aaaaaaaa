@@ -51,8 +51,9 @@ a{
 .primeira-imagem{
     background-image: url(./bliack.jpg);
     background-size: 100% 100%;
-    height: 697px;
+    height: 697px; 
+    margin: 0;
     font-size: 144px;
     text-align: center;
-    margin: 0;
+  
 }
