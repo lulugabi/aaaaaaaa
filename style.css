@@ -9,6 +9,7 @@
 body{
     background-color: var(--black);
     color: var(--white);
+    -moz-text-decoration-style: wavy;
 
 }
 header {
