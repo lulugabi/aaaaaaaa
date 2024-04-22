@@ -62,3 +62,7 @@ footer a{
 .topicos {
     text-align: start;
 }
+a {
+    color: #ffffff;
+    text-decoration: solid;
+}
