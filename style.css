@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&display=swap');
+
+
 :root{
     --black: #000000;
     --white: #ffffff;
@@ -20,11 +23,17 @@ header {
     justify-content: right;
     border: orangered solid 100px;
     background-color: orangered;
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     
 }
 .intro-img{
     width: 221px;
     height: 840px;
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 .intro{
     display: flex;
