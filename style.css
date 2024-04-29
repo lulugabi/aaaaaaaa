@@ -67,3 +67,10 @@ a {
     color: #ffffff;
     text-decoration: solid;
 }
+
+.aviso {
+    display: flex;
+    font-size: x-large;
+    text-align: right;
+    color:#ffdd1b;
+}
