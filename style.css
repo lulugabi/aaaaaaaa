@@ -12,6 +12,9 @@
 body{
     background-color: var(--black);
     color: var(--white);
+    font-family: "Jersey 25", sans-serif;
+    font-weight: 400;
+    font-style: normal;
 
 }
 header {
@@ -38,6 +41,7 @@ header {
 .intro{
     display: flex;
     font-size: 50px;
+
 }
 .Uzumaki {
     display: flex;
