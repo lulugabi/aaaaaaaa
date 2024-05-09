@@ -24,11 +24,8 @@ header {
     align-content: center;
     flex-wrap: nowrap;
     justify-content: right;
-    border: orangered solid 50px;
+    border: orangered solid 70px;
     background-color: orangered;
-    font-family: "Jersey 25", sans-serif;
-    font-weight: 400;
-    font-style: normal;
     
 }
 .intro-img{
