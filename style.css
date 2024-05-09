@@ -24,7 +24,7 @@ header {
     align-content: center;
     flex-wrap: nowrap;
     justify-content: right;
-    border: orangered solid 30px;
+    border: orangered solid 10px;
     background-color: orangered;
     
 }
