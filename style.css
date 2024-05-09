@@ -93,3 +93,7 @@ a {
 .logo {
     width: 36%;
 }
+
+.primeira-imagem {
+    margin-block-start: initial;
+}
